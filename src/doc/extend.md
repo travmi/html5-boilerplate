@@ -598,6 +598,7 @@ The main sizes of the icons on iOS are:
 * `120×120px` – iPhone 4+ (with Retina Display) on iOS ≥ 7
 * `144×144px` – iPad 3+ (with Retina Display)
 * `152×152px` – iPad 3+ (with Retina Display)
+* `180×180px` – iPhone 6 Plus
 
 For non-Retina iPhone, iPod Touch, and Android 2.1+ devices you can use the
 example from above or replace the `apple-touch-icon-precomposed.png` within
